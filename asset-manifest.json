@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d9d8fd5.chunk.css",
-    "main.js": "/static/js/main.a741f001.chunk.js",
-    "main.js.map": "/static/js/main.a741f001.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fbce1e69.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fbce1e69.js.map",
-    "static/js/2.3bbf8cd4.chunk.js": "/static/js/2.3bbf8cd4.chunk.js",
-    "static/js/2.3bbf8cd4.chunk.js.map": "/static/js/2.3bbf8cd4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cb5d4d4bcb236739aa713d0c22dba99a.js": "/precache-manifest.cb5d4d4bcb236739aa713d0c22dba99a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3d9d8fd5.chunk.css.map": "/static/css/main.3d9d8fd5.chunk.css.map"
+    "main.css": "/marcomads-demo/static/css/main.3d9d8fd5.chunk.css",
+    "main.js": "/marcomads-demo/static/js/main.6abf091b.chunk.js",
+    "main.js.map": "/marcomads-demo/static/js/main.6abf091b.chunk.js.map",
+    "runtime-main.js": "/marcomads-demo/static/js/runtime-main.95b9a10b.js",
+    "runtime-main.js.map": "/marcomads-demo/static/js/runtime-main.95b9a10b.js.map",
+    "static/js/2.3bbf8cd4.chunk.js": "/marcomads-demo/static/js/2.3bbf8cd4.chunk.js",
+    "static/js/2.3bbf8cd4.chunk.js.map": "/marcomads-demo/static/js/2.3bbf8cd4.chunk.js.map",
+    "index.html": "/marcomads-demo/index.html",
+    "precache-manifest.a2cf1556d110883588cea9e7dc2870c0.js": "/marcomads-demo/precache-manifest.a2cf1556d110883588cea9e7dc2870c0.js",
+    "service-worker.js": "/marcomads-demo/service-worker.js",
+    "static/css/main.3d9d8fd5.chunk.css.map": "/marcomads-demo/static/css/main.3d9d8fd5.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbce1e69.js",
+    "static/js/runtime-main.95b9a10b.js",
     "static/js/2.3bbf8cd4.chunk.js",
     "static/css/main.3d9d8fd5.chunk.css",
-    "static/js/main.a741f001.chunk.js"
+    "static/js/main.6abf091b.chunk.js"
   ]
 }
