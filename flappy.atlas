@@ -1,0 +1,48 @@
+
+flappy.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bluebird
+  rotate: false
+  xy: 2, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 1
+bluebird
+  rotate: false
+  xy: 38, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 2
+bluebird
+  rotate: false
+  xy: 74, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 3
+redbird
+  rotate: false
+  xy: 110, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 1
+redbird
+  rotate: false
+  xy: 146, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 2
+redbird
+  rotate: false
+  xy: 182, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: 3
