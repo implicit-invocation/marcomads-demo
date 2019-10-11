@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marcomads-demo/static/css/main.3d9d8fd5.chunk.css",
-    "main.js": "/marcomads-demo/static/js/main.2b27dced.chunk.js",
-    "main.js.map": "/marcomads-demo/static/js/main.2b27dced.chunk.js.map",
+    "main.js": "/marcomads-demo/static/js/main.d4eab87e.chunk.js",
+    "main.js.map": "/marcomads-demo/static/js/main.d4eab87e.chunk.js.map",
     "runtime-main.js": "/marcomads-demo/static/js/runtime-main.95b9a10b.js",
     "runtime-main.js.map": "/marcomads-demo/static/js/runtime-main.95b9a10b.js.map",
     "static/js/2.c4d677bd.chunk.js": "/marcomads-demo/static/js/2.c4d677bd.chunk.js",
     "static/js/2.c4d677bd.chunk.js.map": "/marcomads-demo/static/js/2.c4d677bd.chunk.js.map",
     "index.html": "/marcomads-demo/index.html",
-    "precache-manifest.5a5dea8f2d39b783b6f9ed0784c7a187.js": "/marcomads-demo/precache-manifest.5a5dea8f2d39b783b6f9ed0784c7a187.js",
+    "precache-manifest.3c1b5c5a53a578c0e5ec9eecdd5eed6a.js": "/marcomads-demo/precache-manifest.3c1b5c5a53a578c0e5ec9eecdd5eed6a.js",
     "service-worker.js": "/marcomads-demo/service-worker.js",
     "static/css/main.3d9d8fd5.chunk.css.map": "/marcomads-demo/static/css/main.3d9d8fd5.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.95b9a10b.js",
     "static/js/2.c4d677bd.chunk.js",
     "static/css/main.3d9d8fd5.chunk.css",
-    "static/js/main.2b27dced.chunk.js"
+    "static/js/main.d4eab87e.chunk.js"
   ]
 }
