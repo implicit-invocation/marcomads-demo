@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marcomads-demo/precache-manifest.a2cf1556d110883588cea9e7dc2870c0.js"
+  "/marcomads-demo/precache-manifest.5a5dea8f2d39b783b6f9ed0784c7a187.js"
 );
 
 self.addEventListener('message', (event) => {
